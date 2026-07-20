@@ -1,1 +1,3 @@
- welcome to git session
+welcome to git session
+today we are learning to connect local repository with remote repository
+Also creating the dev branches
